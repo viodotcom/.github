@@ -1,6 +1,8 @@
 ![Open Source at Vio.com](https://github.com/viodotcom/.github/blob/main/images/vio-logo.png)
 
-Welcome to the Vio.com! You’re in the right place if you’re trying to find any Open Source projects from Vio.com.
+Hey :wave: Welcome to the Vio.com!
+
+You’re in the right place if you’re trying to find any Open Source projects from the Vio.com company.
 
 ## Contribution
 
