@@ -2,7 +2,7 @@
 
 ![Open Source at Vio.com](https://github.com/viodotcom/.github/blob/main/images/vio-logo.png)
 
-Hey :wave: Welcome to the Vio.com!
+Hey :wave: Welcome to Vio.com!
 
 You’re in the right place if you’re trying to find any Open Source projects from the Vio.com company.
 
@@ -13,7 +13,7 @@ of our Open Source Projects, please submit a Pull Request on the project and we 
 
 ## Get in touch
 
-Learn more what we're doing on [Vio.com Blog](https://www.vio.com/blog)
+Learn more about what we're doing on [Vio.com Blog](https://medium.com/viodotcom)
 
 Want to join us? Check out the opportunities on [Vio.com Careers](https://www.vio.com/careers)!
 
