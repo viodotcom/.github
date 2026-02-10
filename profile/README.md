@@ -1,6 +1,6 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](../code_of_conduct.md)
 
-![Open Source at Vio.com](https://github.com/viodotcom/.github/blob/main/images/vio-logo.png)
+![Open Source at Vio.com](https://github.com/viodotcom/.github/blob/main/images/vio_background.png)
 
 Hey :wave: Welcome to Vio.com!
 
